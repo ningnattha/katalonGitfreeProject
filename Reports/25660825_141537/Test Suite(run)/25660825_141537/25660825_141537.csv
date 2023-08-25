@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suite(run),Chrome 116.0.0.0,,,2566-08-25 14:15:41,2566-08-25 14:15:48,7.151s,PASSED
+,,,,,,,
+Test Cases/TEST GIT,Chrome 116.0.0.0,,,2566-08-25 14:15:41,2566-08-25 14:15:48,6.768s,PASSED
+"openBrowser(""https://katalon-demo-cura.herokuapp.com/"")",Chrome 116.0.0.0,,,2566-08-25 14:15:42,2566-08-25 14:15:48,6.170s,PASSED

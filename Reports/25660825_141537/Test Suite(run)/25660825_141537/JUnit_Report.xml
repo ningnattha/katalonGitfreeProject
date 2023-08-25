@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Test Suite(run)" time="7.151" tests="1" failures="0" errors="0">
+   <testsuite name="Test Suite(run)" tests="1" failures="0" errors="0" time="7.151" skipped="0" timestamp="2566-08-25 14:15:41" hostname="USER - DESKTOP-67R9BDO" id="Test Suites/Test Suite(run)">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\USER\\git\\katalonGitfreeProject\\Reports\\25660825_141537\\Test Suite(run)\\25660825_141537"/>
+         <property name="logFiles" value="C:\\Users\\USER\\git\\katalonGitfreeProject\\Reports\\25660825_141537\\Test Suite(run)\\25660825_141537\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="USER - DESKTOP-67R9BDO"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="8.6.6.208"/>
+         <property name="browser" value="Chrome 116.0.0.0"/>
+         <property name="hostAddress" value="172.20.10.12"/>
+         <property name="sessionId" value="b2b1b5a6a8060c4c8bc2c70feccae9bc"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/TEST GIT" time="6.768" classname="Test Cases/TEST GIT" status="PASSED">
+         <system-out><![CDATA[2566-08-25 14:15:41 - [TEST_CASE][PASSED] - Test Cases/TEST GIT: Test Cases/TEST GIT
+
+2566-08-25 14:15:42 - [TEST_STEP][PASSED] - openBrowser("https://katalon-demo-cura.herokuapp.com/"): Browser is opened with url: 'https://katalon-demo-cura.herokuapp.com/'
+
+2566-08-25 14:15:42 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2566-08-25 14:15:42 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2566-08-25 14:15:48 - [MESSAGE][PASSED] - Browser is opened with url: 'https://katalon-demo-cura.herokuapp.com/']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2566-08-25 14:15:41 - [TEST_SUITE][PASSED] - Test Suite(run): Test Cases/TEST GIT]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
